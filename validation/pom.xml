@@ -42,7 +42,7 @@
                     <reportPlugins>
                         <plugin>
                             <artifactId>maven-project-info-reports-plugin</artifactId>
-                            <version>2.7</version>
+                            <version>2.9</version>
                         </plugin>
                         <plugin>
                             <groupId>net.alchim31.maven</groupId>
