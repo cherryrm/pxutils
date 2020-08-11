@@ -1,5 +1,6 @@
 {
   "checkRunSettings": {
+    "displayMode": "diff", 
     "vulnerableCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
